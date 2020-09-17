@@ -1,0 +1,72 @@
+---
+title: "Practical 1 Worksheet"
+subtitle: "Discovering Statistics"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    number-sections: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = F, warning = F)
+```
+
+## Task 1
+
+First, decide in your team how you will keep in contact (Facebook, WhatsApp, etc.). Designate a team member to set up and coordinate this. You will also have a [group Discussion board on Canvas](https://canvas.sussex.ac.uk/courses/12722/discussion_topics/89859), if you prefer to use that.
+
+Then, decide how you will share and collaborate on practical documents, including this Markdown file and your mini-report. Options include OneDrive, Google Drive, and Dropbox.
+
+Take the time now to set up the shared folder and make sure everyone in the group has access to it. Designate one group member to save this Markdown file in the shared folder at the end of the practical.
+
+## Task 2
+
+### Research Questions
+
+Choose from one of the following research questions to investigate for the next few weeks:
+
+1. Is empathy predicted by different types of mental imagery? (*)
+    * EQ score predicted by visual, auditory, and spatial mental imagery
+2. Is empathy predicted by creativity and belief in a random universe?
+    * EQ score predicted by external thinking, beliefs that one's fate is down to chance, and creativity
+3. Make your own!
+    * Choose one outcome and three predictors of interest
+
+(*) This analysis will appear in all solutions.
+
+Write your research question here:
+
+### Codebook
+
+Refer to the [Codebook](https://rebrand.ly/cs_codebook) for variable names and descriptions.
+
+## Task 3
+
+### Background Reading
+
+Take note of any promising readings here:
+
+
+### Formulate Hypotheses
+
+Based on your reading and your own judgment, formulate a hypothesis for each predictor, answering the following questions:
+
+* Predictor: name of the predictor
+  * Relationship?: Will this predictor have a (nonzero) relationship with the outcome?
+  * Direction: Will the relationship be positive or negative?
+  * Interpretation: How would you interpret this relationship?
+
+* Predictor:
+  * Relationship?:
+  * Direction:
+  * Interpretation:
+* Predictor:
+  * Relationship?:
+  * Direction:
+  * Interpretation:
+* Predictor:
+  * Relationship?:
+  * Direction:
+  * Interpretation:
+
